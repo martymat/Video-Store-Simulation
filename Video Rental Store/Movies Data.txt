@@ -1,0 +1,16 @@
+The Avengers:QMP267:feature
+The Dark Knight:GMV137:feature
+Star Wars:SPC241:feature
+Saw:HvE251:horror
+Deadpool:FUN321:comedy
+Man of Steel:BAD001:horror
+21 Jump Street:AFM359:comedy
+Resident Evil:ENA351:horror
+Zootopia:DIS321:comedy
+Pulp Fiction:DNS923:feature
+The Lion King:TLK356:feature
+American Hussle:ASF252:feature
+Silent Hill:SCA316:horror
+Nightmare On Elm Street:BGA421:horror
+Water Boy:ADS513:comedy
+Step Brothers:BAS452:comedy
